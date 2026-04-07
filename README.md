@@ -43,4 +43,3 @@ We have deployed 6 machine learning algorithms and every algorithm is deployed s
 
 **Comparing all those scores scored by the machine learning algorithms, it is clear that Random Forest Classifier Model gives highest accuracy and will provide best prediction.**
 
-Code Contributed by Akash Jain **(@Akash20x)**
